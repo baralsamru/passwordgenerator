@@ -1,6 +1,6 @@
 # passwordgenerator
 
-This is a Python-based password generator script that creates secure and customizable passwords based on user preferences.
+This is a Python-based password generator script created in Kali Linux that creates secure and customizable passwords based on user preferences.
 
 ## Features
 - Generate passwords of any length.
