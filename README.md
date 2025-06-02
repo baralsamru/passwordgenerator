@@ -14,4 +14,5 @@ This is a Python-based password generator script that creates secure and customi
 ## Usage
 1. Run the script:
    ```bash
-   python password_generator.py
+   chmod +x password_generator.py
+   ./password_generator.py
